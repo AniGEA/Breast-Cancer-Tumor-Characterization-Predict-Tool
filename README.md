@@ -4,6 +4,9 @@
 ## Introduction
 The objective of this project is to analyze the breast cancer dataset supplied by the University of Wisconsin, Madison, and identify a suitable machine learning algorithm to predict diagnoses based on pre-recorded data. The attributes of this dataset are computed from digitized images of fine needle aspirates (FNA) of breast masses. The dataset was donated to the University of Wisconsin in 1995.
 
+For more information about the dataset, including details about its collection and availability, please refer to the official webpage:
+ [Breast Cancer Wisconsin (Diagnostic) Dataset]([https://robdunnlab.com/projects/belly-button-biodiversity/]
+
 **Key Attributes**
 + Diagnosis: (M = malignant, B = benign) - This is our target variable.
 + Radius: Mean of distances from center to points on the perimeter
