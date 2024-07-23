@@ -34,4 +34,5 @@ The dataset contains diagnoses of lumps and masses found in patients, classifyin
 In this project, various machine learning algorithms were evaluated, including:
 + **Neural Network Model: Achieved an accuracy of 99%.**
 + **Support Vector Machine (SVM) Model: Achieved an accuracy of 97%.**
+  
 For the SVM model, we explored several less optimal versions before finalizing the optimized version that delivered the best performance.
