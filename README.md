@@ -22,9 +22,6 @@ Note: The ID column is excluded from the analysis as it is used only for identif
 **Breast Cancer Overview**
 According to the American Cancer Society, breast cancer occurs when cells in the breast grow uncontrollably. These cells often form a tumor that can be detected via an x-ray or felt as a lump. The tumor is considered malignant (cancerous) if the cells can invade surrounding tissues or spread to other parts of the body. While breast cancer primarily affects women, men can also develop the disease.
 
-**Signs and Symptoms**
-The most common symptom of breast cancer is a new lump or mass. A painless, hard mass with irregular edges is more likely to be cancerous, although breast cancers can also be tender, soft, or rounded, and can even be painful. It is crucial to have any new breast mass or lump or any change in the breast checked by a healthcare provider experienced in diagnosing breast diseases.
-
 **Dataset Application**
 The dataset contains diagnoses of lumps and masses found in patients, classifying them as either malignant (denoted by 'M') or benign (denoted by 'B'). This project will use these classifications to train and evaluate machine learning models, aiming to accurately predict the diagnosis based on the provided attributes.
 
