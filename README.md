@@ -1,7 +1,7 @@
 ![P (3)](https://github.com/user-attachments/assets/f49ff719-4ad9-47e9-aff1-ce9f7ae2e75e)
 
 
-**Introduction**
+## Introduction
 The objective of this project is to analyze the breast cancer dataset supplied by the University of Wisconsin, Madison, and identify a suitable machine learning algorithm to predict diagnoses based on pre-recorded data. The attributes of this dataset are computed from digitized images of fine needle aspirates (FNA) of breast masses. The dataset was donated to the University of Wisconsin in 1995.
 
 **Key Attributes**
