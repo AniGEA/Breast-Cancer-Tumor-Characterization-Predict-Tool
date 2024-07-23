@@ -27,3 +27,9 @@ The most common symptom of breast cancer is a new lump or mass. A painless, hard
 
 **Dataset Application**
 The dataset contains diagnoses of lumps and masses found in patients, classifying them as either malignant (denoted by 'M') or benign (denoted by 'B'). This project will use these classifications to train and evaluate machine learning models, aiming to accurately predict the diagnosis based on the provided attributes.
+
+**Model Performance**
+In this project, various machine learning algorithms were evaluated, including:
++ Neural Network Model: Achieved an accuracy of 99%.
++ Support Vector Machine (SVM) Model: Achieved an accuracy of 97%.
+For the SVM model, we explored several less optimal versions before finalizing the optimized version that delivered the best performance.
